@@ -1,0 +1,1 @@
+/home/jamil/Desktop/usart\ (another\ copy)/target/thumbv7em-none-eabihf/debug/usart: /home/jamil/Desktop/usart\ (another\ copy)/src/main.rs /home/jamil/Desktop/usart\ (another\ copy)/stmlib/src/lib.rs

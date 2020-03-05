@@ -1,0 +1,11 @@
+/home/jamil/Desktop/STM32WithHC-05 in Rust/target/rls/thumbv7em-none-eabihf/debug/deps/generic_array-846f3c0801eca12e.rmeta: /home/jamil/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.13.2/src/lib.rs /home/jamil/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.13.2/src/hex.rs /home/jamil/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.13.2/src/impls.rs /home/jamil/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.13.2/src/arr.rs /home/jamil/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.13.2/src/functional.rs /home/jamil/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.13.2/src/iter.rs /home/jamil/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.13.2/src/sequence.rs
+
+/home/jamil/Desktop/STM32WithHC-05 in Rust/target/rls/thumbv7em-none-eabihf/debug/deps/generic_array-846f3c0801eca12e.d: /home/jamil/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.13.2/src/lib.rs /home/jamil/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.13.2/src/hex.rs /home/jamil/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.13.2/src/impls.rs /home/jamil/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.13.2/src/arr.rs /home/jamil/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.13.2/src/functional.rs /home/jamil/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.13.2/src/iter.rs /home/jamil/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.13.2/src/sequence.rs
+
+/home/jamil/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.13.2/src/lib.rs:
+/home/jamil/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.13.2/src/hex.rs:
+/home/jamil/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.13.2/src/impls.rs:
+/home/jamil/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.13.2/src/arr.rs:
+/home/jamil/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.13.2/src/functional.rs:
+/home/jamil/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.13.2/src/iter.rs:
+/home/jamil/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.13.2/src/sequence.rs:

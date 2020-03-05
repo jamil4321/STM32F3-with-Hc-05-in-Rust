@@ -1,0 +1,5 @@
+cargo:rustc-link-lib=static=cortex-m
+cargo:rustc-link-search=/home/jamil/Desktop/STM32WithHC-05 in Rust/target/rls/thumbv7em-none-eabihf/debug/build/cortex-m-9b35f4d3d84c8818/out
+cargo:rustc-cfg=cortex_m
+cargo:rustc-cfg=armv7m
+cargo:rustc-cfg=has_fpu

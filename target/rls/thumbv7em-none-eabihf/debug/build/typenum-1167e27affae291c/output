@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_OP=/home/jamil/Desktop/STM32WithHC-05 in Rust/target/rls/thumbv7em-none-eabihf/debug/build/typenum-1167e27affae291c/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/jamil/Desktop/STM32WithHC-05 in Rust/target/rls/thumbv7em-none-eabihf/debug/build/typenum-1167e27affae291c/out/op.rs

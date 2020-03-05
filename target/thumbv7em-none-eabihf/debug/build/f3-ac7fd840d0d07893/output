@@ -1,0 +1,3 @@
+cargo:rustc-link-search=/home/jamil/Desktop/usart/target/thumbv7em-none-eabihf/debug/build/f3-ac7fd840d0d07893/out
+cargo:rerun-if-changed=build.rs
+cargo:rerun-if-changed=memory.x
